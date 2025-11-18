@@ -78,6 +78,17 @@ const Products: React.FC = () => {
       description:
         "LDPE shopping bags are soft, flexible, and customizable — perfect for retail and packaging uses.",
     },
+    {
+     id: "7",
+      name: "Surface protection films",
+      images: [
+         "/company_images/img32.jpeg",
+          "/company_images/img33.jpeg",
+          "/company_images/img34.jpeg",
+      ],
+      description:
+        "Surface protection films are thin adhesive-coated materials designed to temporarily shield surfaces from damage during manufacturing, transportation, storage, or installation. They act as a protective barrier against scratches, dirt, dust, UV light, moisture, and chemical contaminants, ensuring the surface remains clean and intact until use.",
+    },
   ];
 
   const toggleExpand = (productId: string) => {
