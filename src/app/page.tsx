@@ -18,12 +18,17 @@ const Home: React.FC = () => {
   const clients = [
   { name: "Client A", logo: "/logos/amust1.jpeg" },
   { name: "Client B", logo: "/logos/aqd1.jpeg" },
+  { name: "Client I", logo: "/logos/rohit_new_1.jpeg" },
   { name: "Client C", logo: "/logos/imerys1.jpeg" },
   { name: "Client D", logo: "/logos/irctc.jpeg" },
+  { name: "Client K", logo: "/logos/rohit_new_3.jpeg" },
   { name: "Client E", logo: "/logos/marico1.jpeg" },
+   { name: "Client J", logo: "/logos/rohit_new_2.jpeg" },
+     { name: "Client L", logo: "/logos/rohit_new_4.jpeg" },
   { name: "Client F", logo: "/logos/prabhuji.jpeg" },
-   { name: "Client G", logo: "/logos/baileys.jpg" },  
-     { name: "Clien H", logo: "/logos/bud.png" },
+   { name: "Client G", logo: "/logos/baileys.jpg" },
+     { name: "Client H", logo: "/logos/bud.png" },
+    
 ];
 
   const whyChooseUs = [
